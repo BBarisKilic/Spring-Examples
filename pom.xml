@@ -13,6 +13,7 @@
 	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
-    	<module>demo-first</module>
+    	<module>hello-world</module>
+		<module>mongo-rest-api</module>
   	</modules>
 </project>
